@@ -44,7 +44,7 @@
   <a href="mailto:tejaspatil0582@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tejaspatil0582/">
+  <a href="https://www.linkedin.com/in/tejas-patil5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/patil_tejas05/">
